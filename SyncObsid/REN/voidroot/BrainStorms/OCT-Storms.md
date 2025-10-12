@@ -1,0 +1,1 @@
+a player that maps each frame of a video to a fragment of a song so it looks like a live cover art not a music video!
