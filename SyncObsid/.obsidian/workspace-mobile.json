@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "koretech.md",
+            "file": "REN/voidroot/Project-000/project-000_intro.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,10 +154,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3b977d9212dbef5",
+  "active": "42e1448b3e058107",
   "lastOpenFiles": [
-    "REN/voidroot/Manager Documents/Target Studios.md",
+    "REN/voidroot/Manager Documents/Untitled.canvas",
+    "REN/voidroot/Technical Documents/GODO-UNITY Flow.md",
     "REN/finances/Survival_plan_p1.md",
+    "REN/voidroot/Technical Documents",
+    "REN/voidroot/Project-000/project-000_intro.md",
+    "REN/voidroot/Project-000",
+    "REN/voidroot/Manager Documents/Target Studios.md",
     "REN/finances",
     "REN/voidroot/Manager Documents/Targets.md",
     "REN/voidroot/Manager Documents/Fields of Focus.md",
