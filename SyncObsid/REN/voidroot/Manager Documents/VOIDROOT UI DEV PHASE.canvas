@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"af6766236df8135b","x":-280,"y":-320,"width":360,"height":360,"type":"text","text":"##### First UI Pack\na minimal scifi pack including\n- [ ] 2 HUDs\n- [ ] 1 Pause Menu\n- [ ] 1 Map Layout\n- [ ] 1 Hp Bar\n- [ ] 1 Button Type\n- [ ] animation for everything\n- [ ] logic sockets"},
+		{"id":"02640d3828c36ab8","x":200,"y":100,"width":380,"height":300,"type":"text","text":"##### Market Presence\nweekly post structures be like:\n- 1 post showing tutorial/documentary\n- demo a component\n- talking about voidroot in general\n "}
+	],
+	"edges":[]
+}
