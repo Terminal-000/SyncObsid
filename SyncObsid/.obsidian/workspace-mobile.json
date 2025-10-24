@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REN/voidroot/DASHBOARD.md",
-                "mode": "preview",
+                "file": "REN/voidroot/Technical Documents/GODO-UNITY Flow.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DASHBOARD"
+              "title": "GODO-UNITY Flow"
             }
           }
         ]
@@ -156,8 +156,9 @@
   },
   "active": "d3b977d9212dbef5",
   "lastOpenFiles": [
-    "REN/voidroot/Technical Documents/GODO-UNITY Flow.md",
+    "PERSONAL/Daily Routine/040801.md",
     "REN/voidroot/DASHBOARD.md",
+    "REN/voidroot/Technical Documents/GODO-UNITY Flow.md",
     "REN/finances/Survival_plan_p1.md",
     "REN/voidroot/Daily Tasks/2025-10-21 - voidroot.md",
     "REN/voidroot/Manager Documents/Untitled.canvas",
