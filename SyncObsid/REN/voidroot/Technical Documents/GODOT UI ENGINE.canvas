@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0eb279fde2752c0b","x":-65,"y":-4,"width":205,"height":204,"color":"4","type":"text","text":"### **scene tree**\nThe global space of your game. connects everything together."},
+		{"id":"b5c39c6dae7615b0","x":240,"y":-4,"width":120,"height":50,"type":"text","text":"Node"},
+		{"id":"d6e314ee1a653a3c","x":240,"y":150,"width":120,"height":50,"type":"text","text":"Handles"},
+		{"id":"6fda039d6a668143","x":-540,"y":-102,"width":365,"height":400,"type":"file","file":"architecture_diagram.jpg"}
+	],
+	"edges":[
+		{"id":"4608ec372487a40c","fromNode":"0eb279fde2752c0b","fromSide":"right","toNode":"b5c39c6dae7615b0","toSide":"left"},
+		{"id":"97973841f27418f8","fromNode":"0eb279fde2752c0b","fromSide":"right","toNode":"d6e314ee1a653a3c","toSide":"left"},
+		{"id":"cb8cc280a85d0d8c","fromNode":"0eb279fde2752c0b","fromSide":"left","toNode":"6fda039d6a668143","toSide":"right"}
+	]
+}

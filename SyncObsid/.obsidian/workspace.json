@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "18214039d4d1f04a",
+        "id": "193e3f6a7d184694",
         "type": "tabs",
         "children": [
           {
-            "id": "6c8e4abd1af80103",
+            "id": "9cb248e2741e7bfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "REN/voidroot/Daily Tasks/2025-10-21 - voidroot.md",
-                "mode": "preview",
-                "source": false
+                "file": "REN/voidroot/Technical Documents/GODOT UI ENGINE.canvas",
+                "viewState": {
+                  "x": 141.8018139399837,
+                  "y": 87.44271814898593,
+                  "zoom": -0.6000000000000001
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-10-21 - voidroot"
+              "icon": "lucide-layout-dashboard",
+              "title": "GODOT UI ENGINE"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e9a70264acc6afb",
@@ -169,11 +173,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "6c8e4abd1af80103",
+  "active": "9cb248e2741e7bfa",
   "lastOpenFiles": [
-    "REN/voidroot/Daily Tasks/2025-10-07 - voidroot.md",
-    "REN/voidroot/Daily Tasks/2025-10-21 - voidroot.md",
+    "architecture_diagram.jpg",
+    "PERSONAL/MY LIFE ASPECTS.md",
+    "REN/voidroot/Technical Documents/GODOT UI ENGINE.canvas",
+    "Untitled.canvas",
     "REN/voidroot/DASHBOARD.md",
+    "PERSONAL/Daily Routine/040802.md",
+    "PERSONAL/Daily Routine/Untitled.md",
+    "PERSONAL/Daily Routine/040801.md",
+    "REN/voidroot/Daily Tasks/2025-10-21 - voidroot.md",
+    "REN/voidroot/Daily Tasks/2025-10-07 - voidroot.md",
     "REN/voidroot/Manager Documents/SHORT-TERM PROTOCOL.md",
     "REN/voidroot/Manager Documents/Fields of Focus.md",
     "REN/voidroot/Project-000/project-000_intro.md",
