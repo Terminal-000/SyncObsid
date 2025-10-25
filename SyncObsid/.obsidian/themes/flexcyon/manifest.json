@@ -1,0 +1,9 @@
+{
+  "name": "flexcyon",
+  "version": "1.2.1",
+  "minAppVersion": "1.6.3",
+  "author": "bladeacer",
+  "screenshot": "./docs/dark.png",
+  "modes": ["light", "dark"],
+  "fundingUrl": "https://github.com/sponsors/bladeacer"
+}
