@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"0eb279fde2752c0b","x":-65,"y":-4,"width":205,"height":204,"color":"4","type":"text","text":"### **scene tree**\nThe global space of your game. connects everything together."},
-		{"id":"b5c39c6dae7615b0","x":240,"y":-4,"width":120,"height":50,"type":"text","text":"Node"},
-		{"id":"d6e314ee1a653a3c","x":240,"y":150,"width":120,"height":50,"type":"text","text":"Handles"},
-		{"id":"6fda039d6a668143","x":-540,"y":-102,"width":365,"height":400,"type":"file","file":"architecture_diagram.jpg"}
+		{"id":"0eb279fde2752c0b","type":"text","text":"### **scene tree**\nThe global space of your game. connects everything together.","x":-65,"y":-4,"width":205,"height":204,"color":"4"},
+		{"id":"b5c39c6dae7615b0","type":"text","text":"Node","x":240,"y":-4,"width":120,"height":50},
+		{"id":"d6e314ee1a653a3c","type":"text","text":"Handles","x":240,"y":150,"width":120,"height":50},
+		{"id":"6fda039d6a668143","type":"file","file":"SyncObsid/SyncObsid/REN/voidroot/Technical Documents/architecture_diagram.jpg","x":-580,"y":-143,"width":440,"height":483}
 	],
 	"edges":[
 		{"id":"4608ec372487a40c","fromNode":"0eb279fde2752c0b","fromSide":"right","toNode":"b5c39c6dae7615b0","toSide":"left"},
