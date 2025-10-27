@@ -11,17 +11,14 @@
             "id": "9cb248e2741e7bfa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "REN/voidroot/Technical Documents/GODOT UI ENGINE.canvas",
-                "viewState": {
-                  "x": 141.8018139399837,
-                  "y": 87.44271814898593,
-                  "zoom": -0.6000000000000001
-                }
+                "file": "PERSONAL/Daily Routine/040804.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "GODOT UI ENGINE"
+              "icon": "lucide-file",
+              "title": "040804"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1e9a70264acc6afb",
@@ -173,17 +169,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "9cb248e2741e7bfa",
+  "active": "bc06615bf4102cac",
   "lastOpenFiles": [
-    "REN/voidroot/Technical Documents/architecture_diagram.jpg",
-    "PERSONAL/Daily Routine/040804.md",
+    "REN/voidroot/Technical Documents/Untitled.canvas",
+    "PERSONAL/Daily Routine/040805.md",
+    "PERSONAL/Daily Routine/040803.md",
+    "REN/voidroot/Technical Documents/GODOT UI ENGINE.canvas",
+    "REN/voidroot/Technical Documents/GODO-UNITY Flow.md",
     "PERSONAL/Daily Routine/040703.md",
+    "PERSONAL/Daily Routine/040802.md",
+    "PERSONAL/Daily Routine/040804.md",
+    "REN/voidroot/Technical Documents/architecture_diagram.jpg",
     "architecture_diagram.jpg",
     "PERSONAL/MY LIFE ASPECTS.md",
-    "REN/voidroot/Technical Documents/GODOT UI ENGINE.canvas",
     "Untitled.canvas",
     "REN/voidroot/DASHBOARD.md",
-    "PERSONAL/Daily Routine/040802.md",
     "PERSONAL/Daily Routine/Untitled.md",
     "PERSONAL/Daily Routine/040801.md",
     "REN/voidroot/Daily Tasks/2025-10-21 - voidroot.md",
@@ -193,7 +193,6 @@
     "REN/voidroot/Project-000/project-000_intro.md",
     "REN/voidroot/Manager Documents/Untitled.canvas",
     "REN/voidroot/BrainStorms/OCT-Storms.md",
-    "REN/voidroot/Technical Documents/GODO-UNITY Flow.md",
     "REN/voidroot/Technical Documents",
     "REN/voidroot/Project-000",
     "REN/voidroot/Manager Documents/Targets.md",
