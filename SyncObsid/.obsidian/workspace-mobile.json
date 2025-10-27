@@ -25,14 +25,17 @@
             "id": "48cc0947cc1468b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "PERSONAL/Daily Routine/040804.md",
-                "mode": "source",
-                "source": false
+                "file": "REN/voidroot/Technical Documents/GODOT UI ENGINE.canvas",
+                "viewState": {
+                  "x": -110,
+                  "y": 98.5,
+                  "zoom": -1.1653975298855965
+                }
               },
-              "icon": "lucide-file",
-              "title": "040804"
+              "icon": "lucide-layout-dashboard",
+              "title": "GODOT UI ENGINE"
             }
           }
         ],
@@ -172,9 +175,10 @@
   },
   "active": "48cc0947cc1468b5",
   "lastOpenFiles": [
+    "PERSONAL/Daily Routine/040803.md",
+    "PERSONAL/Daily Routine/040804.md",
     "PERSONAL/Daily Routine/040703.md",
     "REN/voidroot/Daily Tasks/2025-10-21 - voidroot.md",
-    "PERSONAL/Daily Routine/040804.md",
     "REN/voidroot/Technical Documents/GODOT UI ENGINE.canvas",
     "PERSONAL/MY LIFE ASPECTS.md",
     "PERSONAL/Daily Routine/040802.md",
