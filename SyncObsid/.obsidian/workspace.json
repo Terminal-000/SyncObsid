@@ -11,17 +11,14 @@
             "id": "9cb248e2741e7bfa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "REN/voidroot/Technical Documents/REN-VoidAnimator.canvas",
-                "viewState": {
-                  "x": 828.8786902738482,
-                  "y": 664.3804884980515,
-                  "zoom": -0.8000000000000002
-                }
+                "file": "PERSONAL/Daily Routine/040805.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "REN-VoidAnimator"
+              "icon": "lucide-file",
+              "title": "040805"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1e9a70264acc6afb",
@@ -176,8 +172,8 @@
   },
   "active": "9cb248e2741e7bfa",
   "lastOpenFiles": [
-    "REN/voidroot/Technical Documents/REN Animation Framework.canvas",
     "REN/voidroot/Technical Documents/REN-VoidAnimator.canvas",
+    "REN/voidroot/Technical Documents/REN Animation Framework.canvas",
     "PERSONAL/Daily Routine/040804.md",
     "PERSONAL/Daily Routine/040805.md",
     "PERSONAL/Daily Routine/040803.md",
