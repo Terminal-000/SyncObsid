@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"41b9c5347db0cf83","type":"text","text":"### THE GOAL\n---\n\nDrop void-animator under any UI component.\nHave a toolbox of simple and complex UI animation sorted by their usage and class.\nChain Animation effects together.\nEverything runs on an adjustable timeframe.\n-- examples\nGlow effect + Fade in\nGlitch effect + Fade out\netc\nNext be able to attach triggers like a response to a signal or a conditional control to it to define the playback logic\nattach audio if you want and the audio would stretch to fit the length\nEffects could be activated and deactivated\nYou can have control on easing\nHave some presets if the greatness overwhelms you! :D","x":-440,"y":-120,"width":460,"height":560},
+		{"id":"951179d109cf4e57","x":60,"y":-120,"width":520,"height":560,"type":"text","text":"### MVP\n---\n\n\n"}
+	],
+	"edges":[]
+}
