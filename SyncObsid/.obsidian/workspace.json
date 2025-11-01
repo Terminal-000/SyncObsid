@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "23d9f2ccc362c58a",
+        "id": "712870b824a12397",
         "type": "tabs",
         "children": [
           {
-            "id": "097b69707cd50909",
+            "id": "4ff13d06778c5d91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "PERSONAL/Daily Routine/040805.md",
-                "mode": "source",
-                "source": false
+                "file": "REN/voidroot/Technical Documents/REN-VoidAnimator.canvas",
+                "viewState": {
+                  "x": 257.5676810332419,
+                  "y": -472.3731484694642,
+                  "zoom": -0.10000054479719045
+                }
               },
-              "icon": "lucide-file",
-              "title": "040805"
+              "icon": "lucide-layout-dashboard",
+              "title": "REN-VoidAnimator"
             }
           }
         ]
@@ -170,42 +173,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc06615bf4102cac",
+  "active": "4ff13d06778c5d91",
   "lastOpenFiles": [
-    "REN/voidroot/Technical Documents/REN-VoidAnimator Architecture.canvas",
-    "PERSONAL/Daily Routine/040810.md",
+    "REN/voidroot/Manager Documents/VOIDROOT UI DEV PHASE.canvas",
     "REN/voidroot/Technical Documents/REN-VoidAnimator.canvas",
     "REN/voidroot/DASHBOARD.md",
-    "REN/voidroot/Daily Tasks/2025-10-21 - voidroot.md",
+    "REN/voidroot/Manager Documents/REN-voidanimator MVP Tasks.md",
     "REN/voidroot/Technical Documents/GODO-UNITY Flow.md",
-    "REN/voidroot/BrainStorms/OCT-Storms.md",
-    "REN/voidroot/Technical Documents/GODOT UI ENGINE.canvas",
     "REN/voidroot/Technical Documents/REN Animation Framework.canvas",
+    "REN/voidroot/Technical Documents/REN-VoidAnimator Architecture.canvas",
+    "REN/voidroot/Technical Documents/GODOT UI ENGINE.canvas",
+    "REN/voidroot/Technical Documents/architecture_diagram.jpg",
+    "REN/voidroot/Manager Documents/VOIDROOT PROTOCOL.md",
+    "REN/voidroot/Project-000/project-000_intro.md",
+    "Untitled.md",
+    "REN/voidroot/Daily Tasks/2025-10-21 - voidroot.md",
+    "REN/voidroot/Daily Tasks/Untitled.md",
+    "PERSONAL/Daily Routine/040805.md",
+    "PERSONAL/Daily Routine/040810.md",
+    "REN/voidroot/BrainStorms/OCT-Storms.md",
     "REN/finances/Survival_plan_p1.md",
     "PERSONAL/MY LIFE ASPECTS.md",
     "PERSONAL/Daily Routine/040804.md",
     "PERSONAL/Daily Routine/040803.md",
     "PERSONAL/Daily Routine/040802.md",
     "PERSONAL/Daily Routine/040801.md",
-    "PERSONAL/Daily Routine/040805.md",
     "PERSONAL/Daily Routine/040703.md",
-    "REN/voidroot/Technical Documents/architecture_diagram.jpg",
     "architecture_diagram.jpg",
     "Untitled.canvas",
     "PERSONAL/Daily Routine/Untitled.md",
     "REN/voidroot/Daily Tasks/2025-10-07 - voidroot.md",
     "REN/voidroot/Manager Documents/SHORT-TERM PROTOCOL.md",
     "REN/voidroot/Manager Documents/Fields of Focus.md",
-    "REN/voidroot/Project-000/project-000_intro.md",
     "REN/voidroot/Manager Documents/Untitled.canvas",
     "REN/voidroot/Technical Documents",
     "REN/voidroot/Project-000",
     "REN/voidroot/Manager Documents/Targets.md",
     "REN/voidroot/Manager Documents/Target Studios.md",
     "REN/finances",
-    "REN/voidroot/Manager Documents/VOIDROOT PROTOCOL.md",
     "REN/voidroot/BrainStorms",
-    "REN/voidroot/Daily Tasks/Untitled.md",
     "REN/voidroot/Daily Tasks",
     "REN/voidroot/Manager Documents",
     "REN/voidroot",

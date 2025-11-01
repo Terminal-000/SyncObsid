@@ -1,0 +1,10 @@
+- [ ] Create a class for void-animation node 🔺  #task 
+- [ ] Define the features of that class 🔺 #task 
+- [ ] Create a base class for effect 🔺 #task 
+- [ ] Define the features of effect base class 🔺 #task
+- [ ] Create Class for fade effect 🔺 #task
+- [ ] Define the features of fade effect base class 🔺 #task 
+- [ ] Define the trigger mechanism to play animations 🔺 #task
+- [ ] Create the editor extension files and bases #task 🔺
+- [ ] Design the editor extension's scene 🔺 #task 
+- [ ] Create the preview in editor extension 🔺 #task
