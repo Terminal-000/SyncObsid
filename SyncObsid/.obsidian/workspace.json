@@ -11,17 +11,14 @@
             "id": "097b69707cd50909",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "REN/voidroot/Technical Documents/REN-VoidAnimator.canvas",
-                "viewState": {
-                  "x": 141.28832751131006,
-                  "y": 1182.4728442043852,
-                  "zoom": -0.5138658228233897
-                }
+                "file": "PERSONAL/Daily Routine/040805.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "REN-VoidAnimator"
+              "icon": "lucide-file",
+              "title": "040805"
             }
           }
         ]
@@ -173,12 +170,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "097b69707cd50909",
+  "active": "bc06615bf4102cac",
   "lastOpenFiles": [
+    "REN/voidroot/Technical Documents/REN-VoidAnimator Architecture.canvas",
+    "PERSONAL/Daily Routine/040810.md",
+    "REN/voidroot/Technical Documents/REN-VoidAnimator.canvas",
     "REN/voidroot/DASHBOARD.md",
     "REN/voidroot/Daily Tasks/2025-10-21 - voidroot.md",
     "REN/voidroot/Technical Documents/GODO-UNITY Flow.md",
-    "REN/voidroot/Technical Documents/REN-VoidAnimator.canvas",
     "REN/voidroot/BrainStorms/OCT-Storms.md",
     "REN/voidroot/Technical Documents/GODOT UI ENGINE.canvas",
     "REN/voidroot/Technical Documents/REN Animation Framework.canvas",
